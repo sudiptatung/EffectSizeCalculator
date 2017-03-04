@@ -1,4 +1,4 @@
-++++++++++++++++++++++++++++++ Hello User! ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++ Hello User! ++++++++++++++++++++++++++++++
 
 Thanks for choosing Effect size calculator! Hope you will find it worthy to use.
 
