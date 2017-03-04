@@ -44,7 +44,7 @@ Nakagawa, S. & Cuthill, I.C. (2007) Effect size, confidence interval and statist
 
 2. The primary reference for calculating the error term is located at Page 284 of
 
-HUNTER, J. E. & SCHMIDT, F. L. (2004). Methods of Meta-Analysis: Correcting Error and Bias in Research Finding, 2nd edition. Sage, Thousand Oaks, CA.
+Hunter, J. E. & Schmidt, F. L. (2004). Methods of Meta-Analysis: Correcting Error and Bias in Research Finding, 2nd edition. Sage, Thousand Oaks, CA.
 
 This error term is particularly roboust to small sample sizes. Cite these references wherever necessary.
 
