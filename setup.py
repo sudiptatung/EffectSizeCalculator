@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='effectsizecalc',
-      version='3.1',
+      version='3.2',
       description='Tool for calculating effect size between group means',
       url='https://github.com/sudiptatung/EffectSizeCalculator.git',
       author='Sudipta Tung',
