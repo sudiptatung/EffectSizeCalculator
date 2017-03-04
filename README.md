@@ -1,6 +1,6 @@
 ++++++++++++++++++++++++++++++ Hello User! ++++++++++++++++++++++++++++++
 
-Thanks for choosing Effect size calculator! Hope you will find it worthy to use.
+Thanks for choosing Effect size calculator! It is a python module, which can calculate Cohen's d value between group means. A link for windows standalone version of the same program is also provided below. Hope you will find it worthy to use.
 
 For any communications, you can mail at sudiptatung@gmail.com
 
