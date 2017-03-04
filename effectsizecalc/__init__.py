@@ -1,9 +1,9 @@
-""" 
+"""
  
  This program Calculates cohen's d using cohensd() function.
  Author: Sudipta Tung
- email: sudiptatung@gmail.com
-
+ Email: sudiptatung@gmail.com
+ Documentation: https://github.com/sudiptatung/EffectSizeCalculator.git 
 """
 import openpyxl as pxl
 import math
