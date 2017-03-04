@@ -32,6 +32,7 @@ You will find a 'sample data.xlsx' file. Save your data in a .xlsx file as given
 #######   How to run the program   #################
 
 $$$ from effectsizecalc import cohensd
+
 $$$ cohensd()
 
 Once ran, it will ask for the input file path. Write that correctly within inverted commas. If you have data in multiple excel files, give the path of the first file and wait till it asks for further file path. Once all the calculations are done, the program will ask whether the user wants to save the results in an output file or not. Respond appropriately and give a file path for the output file and it will ba saved.
