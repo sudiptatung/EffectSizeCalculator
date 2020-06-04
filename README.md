@@ -27,7 +27,7 @@ Follow the Readme.txt file for assistance.
 
 #######   Before you run the program   #############
 
-You will find a 'sample data.xlsx' file. Save your data in a .xlsx file as given in 'sample data.xlsx'. This data file (.xlsx file) can be saved anywhere in your computer. You need to mention the path of the data file once asked for input file path.
+You will find a 'sample data.xlsx' file. Save your data in a .xlsx file as given in 'sample data.xlsx'. This data file (.xlsx file) can be saved anywhere in your computer. You need to mention the path of the data file once asked for providing input file path.
 
 #######   How to run the program   #################
 
@@ -35,7 +35,7 @@ $$$ from effectsizecalc import cohensd
 
 $$$ cohensd()
 
-Once run, it will ask for the input file path. Write that correctly within inverted commas. If you have data in multiple excel files, give the path of the first file and wait till it asks for further file path. Once all the calculations are done, the program will ask whether the user wants to save the results in an output file or not. Respond appropriately and give a file path for the output file and it will ba saved.
+Once ran, it will ask for the input file path. Write that correctly within inverted commas. If you have data in multiple excel files, give the path of the first file and wait till it asks for further file path. Once all the calculations are done, the program will ask whether the user wants to save the results in an output file or not. Respond appropriately and give a file path for the output file and it will ba saved.
 
 ******** REFERENCES ********************************
 
